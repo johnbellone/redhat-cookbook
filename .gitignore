@@ -52,4 +52,5 @@ vendor
 .kitchen
 .vagrant
 Berksfile.lock
+Policyfile.lock.json
 coverage/
